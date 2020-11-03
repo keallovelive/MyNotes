@@ -2,6 +2,7 @@
 qq  
 zsh  
 yay  
+clementine#音乐播放器  
 aria2  
 wps-office#office  
 latte-duck#duck栏  
@@ -20,7 +21,6 @@ systemd服务目录 /usr/lib/systemd/system/
 # 安装输入法
 sudo pacman -S fcitx-im fcitx-configtool  
 添加输入法配置文件 ～/.xprofile  
-
 export GTK_IM_MODULE=fcitx  
 export QT_IM_MODULE=fcitx  
 export XMODIFIERS="@im=fcitx"  
