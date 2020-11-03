@@ -1,18 +1,18 @@
 # Archlinux Application
-qq
-zsh
+qq  
+zsh  
 yay  
-aria2
-wps-office#office
-latte-duck#duck栏
-oh-my-zsh#shell
-netease-cloud-music#网易云音乐
-virtualbox#虚拟机
-baidunetdisk-bin#百度网盘
-google-chrome#google-chrome-stable
-proxychains#shell代理
-komorebi#动态壁纸    
-htop#任务管理器
+aria2  
+wps-office#office  
+latte-duck#duck栏  
+oh-my-zsh#shell  
+netease-cloud-music#网易云音乐  
+virtualbox#虚拟机  
+baidunetdisk-bin#百度网盘  
+google-chrome#google-chrome-stable  
+proxychains#shell代理  
+komorebi#动态壁纸  
+htop#任务管理器  
 # Archlinux 环境配置
 UEFI启动如果启动不了需要将主板全面改成UEFI启动
 systemd服务目录 /usr/lib/systemd/system/
