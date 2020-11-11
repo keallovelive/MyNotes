@@ -28,4 +28,3 @@ export XMODIFIERS="@im=fcitx"
 :w !sudo tee %
 # Shadowsocks-libev
 启动 systemctl start shadowsocks-libev@xx.service
-# test
