@@ -26,3 +26,5 @@ export QT_IM_MODULE=fcitx
 export XMODIFIERS="@im=fcitx"  
 # Vim 提权保存
 :w !sudo tee %
+# Shadowsocks-libev
+启动 systemctl start shadowsocks-libev@xx.service
