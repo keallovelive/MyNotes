@@ -14,6 +14,7 @@ google-chrome#google-chrome-stable
 proxychains#shell代理  
 komorebi#动态壁纸  
 htop#任务管理器  
+GIMP#图像处理  
 # Archlinux 环境配置
 UEFI启动如果启动不了需要将主板全面改成UEFI启动  
 systemd服务目录 /usr/lib/systemd/system/  
