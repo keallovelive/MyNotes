@@ -1,2 +1,2 @@
-# Linux
+# Notes
 This is my notes
