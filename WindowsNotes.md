@@ -15,4 +15,5 @@ Kodi
 potplayer  
 DDplay  
 Final shell  
-qBittorrent
+qBittorrent  
+Vortex #Mod Manager
