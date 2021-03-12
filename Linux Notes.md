@@ -2,6 +2,7 @@
 qq  
 zsh  
 yay  
+libpfs#mtp協議
 clementine#音乐播放器  
 aria2  
 wps-office#office  
@@ -15,6 +16,8 @@ proxychains#shell代理
 komorebi#动态壁纸  
 htop#任务管理器  
 GIMP#图像处理  
+wqy-microhei#WineqqFont
+
 
 ## Archlinux 环境配置
 UEFI启动如果启动不了需要将主板全面改成UEFI启动  
@@ -46,3 +49,9 @@ country.mmdb 全球ip库
 访问clash.razord.top
 ## Shadowsocks-libev
 启动 systemctl start shadowsocks-libev@xx.service
+## GitHub
+git clone location
+git add location
+git commit 
+git push
+

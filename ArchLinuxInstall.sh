@@ -138,3 +138,12 @@ GTK_IM_MODULE DEFAULT=fcitx5
 QT_IM_MODULE DEFAULT=fcitx5
 XMODIFIERS DEFAULT=\@im=fcitx5
 SDL_IM_MODULE DEFAULT=fcitx" >$HOME/.pam_environment
+
+#Proxychains
+echo "strict_chain
+proxy_dns 
+remote_dns_subnet 224
+tcp_read_time_out 15000
+tcp_connect_time_out 8000
+[ProxyList]
+socks5  127.0.0.1 7890" >/etc/proxychains.conf
